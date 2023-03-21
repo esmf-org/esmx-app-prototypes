@@ -14,3 +14,7 @@ components:
   Lumo:
     source_dir: components/models/BasicCMake
     test_dir: components/models/BasicCMake/test
+
+tests:
+  BasicApp1:
+    dir: tests/basic-1
